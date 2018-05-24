@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<title>Home!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="index.html" class="w3-bar-item w3-button w3-padding-large">Home</a>
+    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Submit</a>
+    <a href="contact.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Contact Us</a>
+    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Placeholder</a>
+    <a href="signup.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Sign Up</a>
+      
+    <a href="http://www.facebook.com"><i class="fa fa-facebook-official w3-hover-opacity w3-xlarge w3-padding-large"></i></a>
+  </div>
+</div>
+
+<!-- Navbar on small screens -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="index.html" class="w3-bar-item w3-button w3-padding-large">Home</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large">Submit</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large">Contact Us</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large">Placeholder</a>
+  <a href="signup2.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Sign Up</a>
+</div>
+
+<!-- login Form-->
+<div class="login-form" style="text-align: center; padding-top: 5%; padding-left: 30%; padding-right: 30%;">
+    <form action="/login.php" method="post">
+		<h2>Login</h2>
+		<p>Please fill in this form to login to your account!</p>
+		<hr>
+        <div class="form-group">
+			<div class="input-group">
+				<span class="input-group-addon"><i class="fa fa-user"></i></span>
+				<input type="text" class="form-control" name="username" placeholder="Username" required="required">
+			</div>
+        </div>
+		<div class="form-group">
+			<div class="input-group">
+				<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+				<input type="text" class="form-control" name="password" placeholder="Password" required="required">
+			</div>
+        </div>
+		<div class="form-group">
+            <button type="submit" class="btn btn-primary btn-lg">Login</button>
+        </div>
+    </form>
+</div>
+
+    
+<script>
+</script>
+
+</body>
+</html>
