@@ -1,0 +1,76 @@
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\bin\Debug\4.2A Demo.exe.config
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\bin\Debug\4.2A Demo.exe
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\bin\Debug\4.2A Demo.pdb
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\4.2A Demo.csprojResolveAssemblyReference.cache
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\_4._2A_Demo.Properties.Resources.resources
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.GenerateResource.Cache
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\4.2A Demo.exe
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\4.2A Demo.pdb
+c:\users\elly\documents\visual studio 2013\Projects\4.2A Demo\4.2A Demo\obj\Debug\_4._2A_Demo.Form1.resources
+J:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe.config
+J:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe
+J:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.pdb
+J:\C#DB_demo\4.2A Demo\bin\Debug\MySql.Data.dll
+J:\C#DB_demo\4.2A Demo\bin\Debug\MySql.Data.xml
+J:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csprojResolveAssemblyReference.cache
+J:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Form1.resources
+J:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Properties.Resources.resources
+J:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.GenerateResource.Cache
+J:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.exe
+J:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.pdb
+F:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe.config
+F:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe
+F:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.pdb
+F:\C#DB_demo\4.2A Demo\bin\Debug\MySql.Data.xml
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csprojResolveAssemblyReference.cache
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Users.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Properties.Resources.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.GenerateResource.cache
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.CoreCompileInputs.cache
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.CopyComplete
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.exe
+F:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.pdb
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.LoginForm.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Mainpage.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Threads.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Reported.resources
+F:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Register.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csprojResolveAssemblyReference.cache
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.LoginForm.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Mainpage.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Register.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Threads.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Users.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.Properties.Resources.resources
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.GenerateResource.cache
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.CoreCompileInputs.cache
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.exe
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.pdb
+E:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe.config
+E:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe
+E:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.pdb
+E:\C#DB_demo\4.2A Demo\bin\Debug\MySql.Data.xml
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.csproj.CopyComplete
+E:\C#DB_demo\4.2A Demo\obj\Debug\_4._2A_Demo.ReportedThreads.resources
+E:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.exe.manifest
+E:\C#DB_demo\4.2A Demo\bin\Debug\4.2A Demo.application
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.exe.manifest
+E:\C#DB_demo\4.2A Demo\obj\Debug\4.2A Demo.application
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.LoginForm.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.Mainpage.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.Register.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.Threads.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.ReportedThreads.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.Users.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\_4._2A_Demo.Properties.Resources.resources
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\4.2A Demo.csproj.GenerateResource.Cache
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\4.2A Demo.exe.manifest
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\4.2A Demo.application
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\4.2A Demo.exe
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\4.2A Demo.pdb
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\MySql.Data.dll
+I:\C#DB_demo\SADesktop\4.2A Demo\bin\Debug\MySql.Data.xml
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\4.2A Demo.exe.manifest
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\4.2A Demo.application
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\4.2A Demo.exe
+I:\C#DB_demo\SADesktop\4.2A Demo\obj\Debug\4.2A Demo.pdb
